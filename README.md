@@ -17,7 +17,7 @@ The website was developed to represent and support the mission of the Academy of
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/poojaml1995/AEAMT_Training_Project.git
+   git clone https://github.com/poojamelamanelaxmaiah/AEAMT_Training_Project.git
 2. Import the MySQL database.
 3. Configure connection settings in config.php.
 4. Run in local server environment (XAMPP/WAMP).
